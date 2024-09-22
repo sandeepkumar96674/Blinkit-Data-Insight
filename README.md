@@ -8,7 +8,7 @@
 
 ### Steps Invloved in the Project :
 ```
-- Requirement Gathering
+- Requirement Gathering (Data and Resource)
 - Data Walkthrough
 - Data Connection
 - Data Connection / Quality Check
